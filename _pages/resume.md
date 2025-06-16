@@ -17,7 +17,7 @@ redirect_from:
 * Jun.2025 to Present, Quant Developer Intern with [Metabit Trading](https://www.metabit-trading.com.cn/), Shanghai China
 
 ## Contest Awards
-* 2022 National High School Mathematics League --- First Prize
+* 2021 National High School Mathematics League --- First Prize
 * The 2024 ICPC Asia Nanjing Regional Contest --- Silver Medal
 * IEEE AICAS 2025 Grand Challenge - LLM Software and Hardware System Co-optimizaiton --- Fourth Place
 
