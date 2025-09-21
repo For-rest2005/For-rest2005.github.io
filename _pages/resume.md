@@ -11,10 +11,9 @@ redirect_from:
 
 ## Education
 * B.S. in Information and Computational Science at [School of Computer Science](https://cs.nju.edu.cn/mainm.htm), Nanjing University, June 2027(expected)
-  * GPA: 4.59/5.0, top 10%
 
 ## Experience 
-* Jun.2025 to Present, Quant Developer Intern with [Metabit Trading](https://www.metabit-trading.com.cn/), Shanghai China
+* Jun.2025 to Sept.2025, Quant Developer Intern with [Metabit Trading](https://metabit.sg/), Shanghai China
 
 ## Contest Awards
 * 2021 National High School Mathematics League --- First Prize
