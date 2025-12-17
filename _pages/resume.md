@@ -19,6 +19,7 @@ redirect_from:
 * 2021 National High School Mathematics League --- First Prize
 * The 2024 ICPC Asia Nanjing Regional Contest --- Silver Medal
 * IEEE AICAS 2025 Grand Challenge - LLM Software and Hardware System Co-optimizaiton --- Fourth Place
+* The 2025 ICPC Asia Shenyang Regional Contest --- Gold Medal
 
 ## Skills
 * C++/C, Python
