@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Lu Linqiang" # Your name, used in the title and author profile
+name                     : &name "Linqiang Lu" # Your name, used in the title and author profile
 description              : &description ""
 url                      : https://for-rest2005.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "For-rest2005/For-rest2005.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Lu Linqiang"
+  name             : "Linqiang Lu"
   pronouns         : # example: "she/her"  
   bio              : ""
   location         : "Nanjing, China"
