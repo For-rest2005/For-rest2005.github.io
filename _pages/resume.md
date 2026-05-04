@@ -13,12 +13,11 @@ redirect_from:
 * B.S. in Information and Computational Science at [School of Computer Science](https://cs.nju.edu.cn/mainm.htm), Nanjing University, June 2027(expected)
 
 ## Experience 
-* Jun.2025 to Sept.2025, Quant Developer Intern with [Metabit Trading](https://metabit.sg/), Shanghai China
+* Jun.2025 to Sept.2025, SDE Intern with [Metabit Trading](https://metabit.sg/), Shanghai China
+* Feb.2026 to Now, HPC Intern with [Moonshot AI](https://www.moonshot.cn/), Shanghai China
 
 ## Contest Awards
 * 2021 National High School Mathematics League --- First Prize
-* The 2024 ICPC Asia Nanjing Regional Contest --- Silver Medal
-* IEEE AICAS 2025 Grand Challenge - LLM Software and Hardware System Co-optimizaiton --- Fourth Place
 * The 2025 ICPC Asia Shenyang Regional Contest --- Gold Medal
 
 ## Skills
@@ -26,8 +25,8 @@ redirect_from:
 * (Tools about ML&DL) pytorch, numpy, sklearn
 * (Skills about HPC)  Linux performance analysis, CUDA
 
-## Teaching
-* Sep.2024 to Jun.2025, Discrete Math Teaching Assistant, Nanjing University
+<!-- ## Teaching
+* Sep.2024 to Jun.2025, Discrete Math Teaching Assistant, Nanjing University -->
   
 
 <!-- Work experience
